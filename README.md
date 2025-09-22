@@ -26,7 +26,7 @@ This repository evolves as a **practical notebook hub** for building **AI agents
 - **LangGraph** – workflow orchestration for LLMs and AI agents  
 - **Python** – implementation language  
 - **Jupyter Notebooks** – step-by-step interactive demos  
-- **LLMs – for reasoning and responses  
+- **LLMs** – for reasoning and responses  
 
 ---
 
