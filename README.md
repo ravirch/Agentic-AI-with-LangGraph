@@ -9,7 +9,8 @@ This repository evolves as a **practical notebook hub** for building **AI agents
 
 1. **[Sequential Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Sequential-workflows-in-Langgraph.ipynb)**  
 2. **[Parallel Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Parallel-Workflow-in-LangGraph.ipynb)**
-3. **[Conditional Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Conditional-Workflow-in-Langgraph.ipynb)** 
+3. **[Conditional Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Conditional-Workflow-in-Langgraph.ipynb)**
+4. **[Iterative Workflow in Langgraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Iterative-Workflow-in-Langgraph.ipynb)**
 
 > More notebooks will be added soon! Stay tuned for **branching workflows, hybrid workflows, memory-enabled agents, and end-to-end agentic AI systems**.
 
