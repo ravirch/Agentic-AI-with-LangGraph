@@ -8,7 +8,8 @@ This repository evolves as a **practical notebook hub** for building **AI agents
 ## Index of Notebooks
 
 1. **[Sequential Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Sequential-workflows-in-Langgraph.ipynb)**  
-2. **[Parallel Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Parallel-Workflow-in-LangGraph.ipynb)**  
+2. **[Parallel Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Parallel-Workflow-in-LangGraph.ipynb)**
+3. **[Conditional Workflow in LangGraph](https://github.com/ravirch/Agentic-AI-with-LangGraph/blob/main/Notebooks/Conditional-Workflow-in-Langgraph.ipynb)** 
 
 > More notebooks will be added soon! Stay tuned for **branching workflows, hybrid workflows, memory-enabled agents, and end-to-end agentic AI systems**.
 
@@ -25,7 +26,7 @@ This repository evolves as a **practical notebook hub** for building **AI agents
 - **LangGraph** – workflow orchestration for LLMs and AI agents  
 - **Python** – implementation language  
 - **Jupyter Notebooks** – step-by-step interactive demos  
-- **LLMs – for reasoning and responses  
+- **LLMs** – for reasoning and responses  
 
 ---
 
